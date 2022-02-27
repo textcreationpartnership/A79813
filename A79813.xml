@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The citizens of London's humble petition to the right honourable the knights, citizens, and burgesses of the Commons House in Parliament Subscribed with the names of above twenty thousand, both aldermen, aldermens deputies, merchants, common counsell men, &amp;c. presented the 11. of Decem. 1641. And accepted. With the manner of their going to the Parliament House.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79813</idno>
+            <idno type="STC">Wing C4343A</idno>
+            <idno type="STC">ESTC R229611</idno>
+            <idno type="EEBO-CITATION">99895477</idno>
+            <idno type="PROQUEST">99895477</idno>
+            <idno type="VID">152898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152898)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2331:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The citizens of London's humble petition to the right honourable the knights, citizens, and burgesses of the Commons House in Parliament Subscribed with the names of above twenty thousand, both aldermen, aldermens deputies, merchants, common counsell men, &amp;c. presented the 11. of Decem. 1641. And accepted. With the manner of their going to the Parliament House.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for T.B.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152898:1" rendition="simple:additions"/>
+            <p>THE CITIZENS OF LONDON'S Humble Petition TO The Right Honourable the Knights, Citizens, and Burgeſſes of the Commons Houſe in PARLIAMENT.</p>
+            <p>Subſcribed with the Names of above twenty thouſand, both Aldermen, Aldermens Deputies, Merchants, Common Counſell men, &amp;c. Preſented the 11. of Decem. 1641. And accepted.</p>
+            <p>
+               <hi>With the manner of their going to the Parliament Houſe.</hi>
+            </p>
+            <p>Printed at London for T.B.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:152898:2"/>
+            <pb facs="tcp:152898:2" rendition="simple:additions"/>
+            <head>To the right Honourable the Knights, Citizens and Burgeſſes of the Commons Houſe of Parliament.</head>
+            <head type="sub">The humble Petition of the Aldermen, Aldermens Deputies, Marchants, Common Councell men, Subſidy men, and Citizens of London, of good ranke and quality.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Heweth, that they with all hum<g ref="char:EOLhyphen"/>ble thankfulneſſe, acknowledge that great labour &amp; care which this Honourable Aſſembly hath undergone, now for the ſpace of one whole yeare, endeavou<g ref="char:EOLhyphen"/>ring the reformation and remo<g ref="char:EOLhyphen"/>vall of thoſe many preſſures and grievances in the Church and Common-wealth, and doe humbly preſent that gratefull acceptance and high eſteeme, which not onely the Petitioners, but al<g ref="char:EOLhyphen"/>ſo all well affected to the honour of his Majeſty, and proſperity of this Kingdome, have of theſe your great and unwearied endeavours, which although by reaſon of the Popiſh Lords and Biſhops, voting in the houſe of Peeres, and other impediments (as they humbly conceive) they have not hitherto produced thoſe hap<g ref="char:EOLhyphen"/>py
+<pb facs="tcp:152898:3"/>effects you aimed at, yet to the Petitioners great comfort, divers of thoſe preſſures are already remo<g ref="char:EOLhyphen"/>ved, as Arbitrary Courts, Ship mony, Monopolies, and other illegall Impoſitions, wherewith they were burdened, and further hope given by the happy Act of the Parliaments continuance.</p>
+            <p>That not withſtanding all this, the Papiſts and their adherents, whoſe malice ceaſeth not, have by many ſundry ſecret and deſperate plots, attempted the ruine and deſtruction of this State and kingdome; and how<g ref="char:EOLhyphen"/>ever ſome of them have hitherto by Gods providence and your prudence, been diſcovered, and become a<g ref="char:EOLhyphen"/>bortive, yet the ſad effects of others of them, are not onely felt, and much more feared in this Realme of England; but alſo have of late broken out into open rebellion in Ireland, where moſt barbarous, ſavage, cruell and inhumane actions are practiſed towards our brethren by nation and religion, whoſe lamentable and deplorable condition the Petitioners much pitty and lament, and have juſt cauſe to feare, that as alrea<g ref="char:EOLhyphen"/>dy there hath been much Chriſtian bloud ſpilt; ſo in ſhort time, if ſpeedy help be not ſent, not onely the many great debts there owing to divers of the Petitio<g ref="char:EOLhyphen"/>ners, and others of this kingdome, will be wholly loſt, but which is more, the very name of the Engliſh, and the Proteſtant Religion, will bee rooted out by thoſe Rebels, the foundation of which Religion is written in letters of bloud, doe onely oppoſe: and for that di<g ref="char:EOLhyphen"/>vers of the Petitioners receive daily information from all parts of this kingdome, of the bold and inſolent carriage and threatning ſpeeches of the Papifts in this Realme, as the Petitioners humbly conceive, not only
+<pb facs="tcp:152898:3"/>for the prevailing of the rebels in <hi>Ireland,</hi> but alſo from the want of ſuch ſecure &amp; ſpeedy courſe againſt Papiſts here, as the preſent condition of this kingdome requi<g ref="char:EOLhyphen"/>reth, and the honorable Aſſembly hath earneſtly ende<g ref="char:EOLhyphen"/>voured, from which ground the Petitioners cannot omit to repreſent unto you the great terrors, feares, &amp; diſtractio<g ref="char:cmbAbbrStroke">̄</g>s they lay under of a ſudden ſurpriſe by their bloody hands, by meanes whereof the trading of the City and Kingdome is much more of late decaied then it hath beene for many yeares paſt, no man following his trade chearfully, whiles the lives of himſelfe and family, and the publicke ſafety of the kingdome are in danger, and while hee knoweth not how ſoone they may feele the like cruelty and inhumanity from the Papiſts, and their adherents, as thoſe in Ireland have done, which if ever it ſhould happen in their malice and cruelty, againſt whom they have already by them<g ref="char:EOLhyphen"/>ſelves and their abettors, endeavoured to raiſe a diſre<g ref="char:EOLhyphen"/>ſpect in the hearts of the people, to divide betweene the Kings Majeſty and his Parliament, and ſeditiouſly to miſconſtrue the Citizens dutifull and loyall enter<g ref="char:EOLhyphen"/>tainment of his Majeſty, to be a diſerting of this Ho<g ref="char:EOLhyphen"/>nourable Aſſembly, the leaſt thought whereof the Pe<g ref="char:EOLhyphen"/>titioners do utterly deteſt and abhor: to the end there<g ref="char:EOLhyphen"/>fore that the deſtructive plots of the Papiſts and their adherents may be defeated, the grounds of their hopes and inſolencies removed, conſiderable forces with all expedition ſent to ſubdue thoſe abominable and bloo<g ref="char:EOLhyphen"/>dy rebels in Ireland, this City and Kingdome, for pre<g ref="char:EOLhyphen"/>vention of the like miſchiefe, and fecuring the peace thereof, put into a poſture of defence, the Petitioners freed from their feares, incouraged in their trades, and
+<pb facs="tcp:152898:4"/>in due time receive ſuch juſt anſwers to their former petitions, as ſhall ſeeme beſt to your great wiſdomes.</p>
+            <p>It is humbly prayed that you will vouchſafe to be a meanes to the Kings Majeſty and the houſe of Peeres, that life may be ſpeedily given to your good endea<g ref="char:EOLhyphen"/>vours, by their concurrence with you in the puniſh<g ref="char:EOLhyphen"/>ment of delinquents, and redreſſing the preſſures and grievances in Church and Commonwealth, amongſt which the abuſes crept into the ancient government of this City, they humbly deſire may in due time bee ta<g ref="char:EOLhyphen"/>ken into conſideration: and for the better effecting hereof, that the Popiſh Lords and Biſhops may be re<g ref="char:EOLhyphen"/>moved out of the houſe of Peeres, as was defired in the preſence of divers of this Henourable Aſſembly, by the repreſentative body of this City, when fifty thouſand pounds was freely lent to raiſe forces for Ireland, the greateſt part wherof was ſpeedily brought in by the Petitioners.</p>
+            <p>And the Petitioners, who well know their owne ſafeties are wrapt up in yours, ſhall not faile to put up daily prayers to Almighty God for your good ſuc<g ref="char:EOLhyphen"/>ceſſe, and to maintaine and defend to the utmoſt ha<g ref="char:EOLhyphen"/>zard of their lives and eſtates, according to their late proteſtation, the Kings Majeſty and high Court of Parliament, againſt all wicked Councellors, and ma<g ref="char:EOLhyphen"/>lignant oppoſers, who endeavor either by fecret plots or open force to prejudice the one or the other, or to make diviſions betweene his Majeſty and the Parlia<g ref="char:EOLhyphen"/>ment, whom God and the lawes of this land have uni<g ref="char:EOLhyphen"/>ted in ſo neare relation.</p>
+            <closer>And we ſhall, as in duty bound, pray, &amp;c.</closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:152898:4"/>
+            <head>A Relation in what manner the Peti<g ref="char:EOLhyphen"/>tion was delivered the eleventh of <hi>December.</hi> 1641.</head>
+            <p>SUbſcribed with the names of above 20000. by Al<g ref="char:EOLhyphen"/>dermen, Aldermens Deputies, Merchants, Common Councell men, and many others of great ranke and fa<g ref="char:EOLhyphen"/>ſhion, to the number of 400. who were ſelected to de<g ref="char:EOLhyphen"/>liver the petition, all riding out of the Citie of <hi>London</hi> in 50 Coaches, or thereabouts, to the <hi>Parliament Houſe.</hi> The Houſe hearing of their comming, gave admit<g ref="char:EOLhyphen"/>tance to about an hundred of them, and did receive the petition. One of the Citizens did declare ſome inter<g ref="char:EOLhyphen"/>ruption was given them by ill affected perſons in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> about ſubſcribing of hands, and ſo withdrew themſelves. In the interim, the petition was read in the houſe: whereupon the petitioners were called againe, the houſe did accept of it thankfully; the honourable Houſe gave order, that notice ſhould be taken of ſuch ill-affected perſons, who ſhould hinder, interrupt, diſ<g ref="char:EOLhyphen"/>courage, or take any petition away from any his Maje<g ref="char:EOLhyphen"/>ſties ſubjects, who ſhould goe about to petition to re<g ref="char:EOLhyphen"/>forme grievances, that ſtrict order ſhould bee taken with ſuch perſons, and immediately return their names to the High Court of <hi>Parliament.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
